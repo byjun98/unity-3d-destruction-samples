@@ -1,0 +1,73 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# IDE and generated project files
+.vs/
+.vscode/
+.idea/
+.claude/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vsconfig
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Asset Store packages and imported commercial/free assets
+*.unitypackage
+Assets/ArionDigital/
+Assets/ArionDigital.meta
+Assets/AwesomeFreeScans/
+Assets/AwesomeFreeScans.meta
+Assets/BrokenVector/
+Assets/BrokenVector.meta
+Assets/FireExplosionVFX/
+Assets/FireExplosionVFX.meta
+Assets/FullOpaqueFire/
+Assets/FullOpaqueFire.meta
+Assets/FX_BigSmokeEffectsA/
+Assets/FX_BigSmokeEffectsA.meta
+Assets/FX_Kandol_Pack/
+Assets/FX_Kandol_Pack.meta
+Assets/MENA - Low Poly Cars/
+Assets/MENA - Low Poly Cars.meta
+Assets/OccaSoftware/
+Assets/OccaSoftware.meta
+Assets/PyroParticles/
+Assets/PyroParticles.meta
+Assets/UnityTechnologies/
+Assets/UnityTechnologies.meta
+Assets/Warning_Lamps_Set/
+Assets/Warning_Lamps_Set.meta
+Assets/YughuesFreeGroundMaterials/
+Assets/YughuesFreeGroundMaterials.meta
+Assets/YughuesFreeRockMaterials/
+Assets/YughuesFreeRockMaterials.meta
+
+# Local captures and working notes
+Assets/Screenshots/
+Assets/Screenshots.meta
+DESTRUCTION_DEMO.md
+FIRE_SPREAD_DEMO.md
+IMPLEMENTATION_SUMMARY.md

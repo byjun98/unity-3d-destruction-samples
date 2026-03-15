@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StressCollapseDemo.unity
+    guid: c40662281d9846346a43f98437bbd46c
+  - enabled: 1
+    path: Assets/Scenes/BeamSoftBodyVehicleDemo.unity
+    guid: 9e2bf62775105d84d9f2934bc23bb724
+  m_configObjects: {}
